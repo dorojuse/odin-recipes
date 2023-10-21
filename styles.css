@@ -1,4 +1,4 @@
-* {
+.index {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: #FFF8DC;
@@ -24,6 +24,28 @@ a {
     display: block;
     font-size: 30px;   
 }
+h1.hb {
+    color: blue;
+}
 .lasagna {
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E6E6FA;
+    margin-left: 150px;
+    margin-right: 125px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+.imgl {
+    height: 500px;
+    width: 920px;
+}
+.h1l {
+    text-align: center;
+    color: #800000;
+}
+.lasagna p{
+    font-size: 20px;
+}
+.ingredientsl li {
+    color: #800000;
 }
