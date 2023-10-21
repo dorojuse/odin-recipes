@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #FFF8DC;
+}
+h1 {
+    color: #FF7F50;
+    margin-top: 100px;
+    font-size: 60px;
+}
+
+
+div.recipes {
+    text-align: center;
+}
+
+ul.myUL {
+    text-align: left;
+    display: inline-block;
+    font-size: 30px;
+}
+a {
+    text-align: left;
+    display: block;
+    font-size: 30px;   
+}
+.lasagna {
+    font-family: Arial, Helvetica, sans-serif;
+}
